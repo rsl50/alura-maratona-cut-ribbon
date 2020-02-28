@@ -17,8 +17,11 @@ https://cursos.alura.com.br/course/maratona-de-programacao
 https://codeforces.com/problemset/problem/189/A
 
 time limit per test:	1 second
+
 memory limit per test:	256 megabytes
+
 input:	standard input
+
 output:	standard output
 
 Polycarpus has a ribbon, its length is n. He wants to cut the ribbon in a way that fulfils the following two conditions:
@@ -52,6 +55,7 @@ output:
 ```
 
 **Note**
+
 In the first example Polycarpus can cut the ribbon in such way: the first piece has length 2, the second piece has length 3.
 
 In the second example Polycarpus can cut the ribbon in such way: the first piece has length 5, the second piece has length 2.
